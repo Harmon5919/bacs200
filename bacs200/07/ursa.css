@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: purple;
+    border: 1px solid gray;
+    background-color: lightsteelblue;
+}
+
+h2 {
+    color: darkslategrey
+}
+h3 {
+    color: darkslategrey
+}
+
+p {
+    color: darkslateblue
+}
+a {
+    color: darkcyan;
+}
