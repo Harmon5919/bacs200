@@ -1,23 +1,28 @@
 body {
     background-color: lightblue;
+    text-align:center;
 }
-
 h1 {
     color: purple;
     border: 1px solid gray;
     background-color: lightsteelblue;
+
 }
 
 h2 {
-    color: darkslategrey
+    color: darkslategrey;
+
 }
 h3 {
-    color: darkslategrey
+    color: darkslategrey;
+
 }
 
 p {
-    color: darkslateblue
+    color: darkslateblue;
+
 }
 a {
     color: darkcyan;
+
 }
