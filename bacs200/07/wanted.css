@@ -1,33 +1,59 @@
-body {
-    background-color: ;
-    margin-top: 20px;
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-bottom: 20px;
-    text-align: center;
-    background-color:gainsboro
-    font-family: serif;
-    font-size: 120%;
-    border: 2px solid black;
-    border-radius: 20px;
-}
-
 header {
     text-align: center;
-    background-color:darkgrey
-    font-family: serif;
-    font-size: 120%;
+    background-color: gainsboro;
+    font-family: Arial;
+    font-size: 150%;
     border: 2px solid black;
     border-radius: 20px;
     margin-top: 20px;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin-left: 30%;
+    margin-right: 30%;
     margin-bottom: 20px;
+    box-shadow: 2px 2px 5px gray;
 }
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 100%;
+}
+
+main {
+    background-color: beige;
+    margin-top: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+
+    text-align: left;
+    font-family: Georgia;
+    font-size: 120%;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px gray;
+}
+
 aside {
-    
+    background-color: gainsboro;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 60%;
+    margin-right: 2%;
+    text-align: left;
+    border: 2px solid black;
+    box-shadow: 2px 2px 5px gray;
 }
-p {
-    
-     
+
+section {
+    background-color: beige;
+    text-align: left;
+
+    font-family: Arial;
+    font-size: 120%;
+}
+
+footer {
+    text-align: center;
+
 }
