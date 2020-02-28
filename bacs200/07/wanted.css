@@ -1,0 +1,33 @@
+body {
+    background-color: ;
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color:gainsboro
+    font-family: serif;
+    font-size: 120%;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+header {
+    text-align: center;
+    background-color:darkgrey
+    font-family: serif;
+    font-size: 120%;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 20px;
+}
+aside {
+    
+}
+p {
+    
+     
+}
