@@ -1,6 +1,6 @@
 header {
     text-align: center;
-    background-color: darkgrey;
+    background-color: azure;
     font-family: Arial;
     font-size: 150%;
 
@@ -11,22 +11,24 @@ header {
 
 h1 {
     text-align: center;
-    margin-top: 10px;
-    margin-left: 10%;
-    margin-right: 10%;
+    border: 2px solid black;
+    background-color:darkturquoise
 }
 
 h2 {
+    background-color:azure;
     text-align: center;
     font-size: 120%;
+    border: 2px solid black;
 }
 h3 {
+    background-color:darkturquoise;
     text-align: center;
-    font-size: 100%;
+    border: 2px solid black;
+    font-size: 120%;
 }
 h4 {
-    text-align: left;
-    margin-left: 10px;
+    text-align: center;
 }
 li {
     text-align: left;
@@ -64,4 +66,7 @@ aside {
 footer {
     text-align: center;
 
+}
+a {
+    color: darkmagenta;
 }
