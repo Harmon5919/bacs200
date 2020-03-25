@@ -1,6 +1,6 @@
 header {
     text-align: center;
-    background-color: azure;
+    background-color: lightblue;
     font-family: Arial;
     font-size: 150%;
 
@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-    background-color:azure;
+    background-color:powderblue;
     text-align: center;
     font-size: 120%;
     border: 2px solid black;
@@ -37,6 +37,8 @@ main {
     background-color: lightblue;
     padding-top:10px;
     padding-bottom:10px;
+    margin-top:10px;
+    margin-bottom:10px;
     text-align: center;
     font-family: Arial;
     font-size: 120%;
@@ -74,6 +76,6 @@ a {
 nav {
     text-align:center;
     border: solid black 1px;
-    
+    background-color: powderblue;
     
 }
