@@ -1,6 +1,6 @@
 header {
     text-align: center;
-    background-color: lightblue;
+    background-color: powderblue;
     font-family: Arial;
     font-size: 150%;
 
@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-    background-color:powderblue;
+    background-color:darkturquoise;
     text-align: center;
     font-size: 120%;
     border: 2px solid black;
