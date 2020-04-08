@@ -5,58 +5,65 @@ body {
     
 }
 nav {
-    background-color: black;
-    padding-top:10px;
-    padding-bottom:10px;
-    color: white;
-    font-size: 14pt;
-    text-align:center;
-    
+    background-color: black !important;
+    color: white !important;
+    font-size: 14pt !important;
+    text-align:center !important;
+    white-space: nowrap !important;
 }
 
-.nav {
-    color: white;
-    text-decoration: none;
+.carousel-inner {
+    text-align:center !important;
+}
+
+.navbar-brand {
+    color: aqua !important;
+}
+
+.nav-link {
+    font-size: 12pt;
+    color: white !important;
+    text-decoration: none !important;
+    white-space: nowrap !important;
 }
 
 header {
-    text-align: center;
-
+    text-align: center !important;
 }
 
 h1 {
-    font-size: 300%;
-    font-family:monospace;
+    font-size: 300% !important;
+    font-family:monospace !important;
     
 }
 
 h2 {
-    font-size: 150%;
-    font-family:monospace;
+    font-size: 150% !important;
+    font-family:monospace !important;
 }
 
 main {
-    margin-top:10px;
-    margin-bottom:10px;
+    margin-top:10px !important;
+    margin-bottom:10px !important;
     
 }
 
 section {
-    background-color:whitesmoke;
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-bottom:10px;
-    margin-top:10px;
-    padding-left: 10px;
-    padding-right: 10px;
-    border: 1px solid black;
-    box-shadow: 2px 2px 5px gray
+    background-color:whitesmoke !important;
+    margin-left: 15% !important;
+    margin-right: 15% !important;
+    margin-bottom:10px !important;
+    margin-top:10px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    border: 3px solid grey !important;
+    box-shadow: 2px 2px 5px gray!important;
 }
 
 footer {
-    background-color:black;
-    color: lightgrey;
-    padding-top:10px;
-    padding-bottom:10px;
-   text-align:center;
+    background-color:black !important;
+    color: lightgrey !important;
+    padding-top:10px !important;
+    padding-bottom:10px !important;
+   text-align:center !important;
 }
