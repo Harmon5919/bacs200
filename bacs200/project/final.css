@@ -76,3 +76,11 @@ footer {
     text-align: center;
     color: white;
 }
+
+.alert-info {
+    text-align:center;
+}
+
+.alert-link {
+    color:cadetblue;
+}
