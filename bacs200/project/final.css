@@ -1,19 +1,20 @@
 body {
-    background-color:lightblue;
-    color:darkslategray;
-    font-family:monospace;
-    
+    background-color: lightblue;
+    color: darkslategray;
+    font-family: monospace;
+
 }
+
 nav {
     background-color: black !important;
     color: white !important;
     font-size: 14pt !important;
-    text-align:center !important;
+    text-align: center !important;
     white-space: nowrap !important;
 }
 
 .carousel-inner {
-    text-align:center !important;
+    text-align: center !important;
 }
 
 .navbar-brand {
@@ -33,37 +34,41 @@ header {
 
 h1 {
     font-size: 300% !important;
-    font-family:monospace !important;
-    
+    font-family: monospace !important;
+
 }
 
 h2 {
     font-size: 150% !important;
-    font-family:monospace !important;
+    font-family: monospace !important;
 }
 
 main {
-    margin-top:10px !important;
-    margin-bottom:10px !important;
-    
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+
 }
 
 section {
-    background-color:whitesmoke !important;
+    background-color: whitesmoke !important;
     margin-left: 15% !important;
     margin-right: 15% !important;
-    margin-bottom:10px !important;
-    margin-top:10px !important;
+    margin-bottom: 10px !important;
+    margin-top: 10px !important;
     padding-left: 10px !important;
     padding-right: 10px !important;
     border: 3px solid grey !important;
-    box-shadow: 2px 2px 5px gray!important;
+    box-shadow: 2px 2px 5px gray !important;
 }
 
 footer {
-    background-color:black !important;
+    background-color: black !important;
     color: lightgrey !important;
-    padding-top:10px !important;
-    padding-bottom:10px !important;
-   text-align:center !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    text-align: center !important;
+}
+
+.navigation {
+    text-align: center;
 }
