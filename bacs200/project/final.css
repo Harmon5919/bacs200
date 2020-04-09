@@ -12,8 +12,7 @@ nav {
     text-align: center !important;
     padding-right: 10%;
     padding-left: 10%;
-    margin-right: 10px;
-    margin-left: 10px;
+    
 }
 
 .carousel-inner {
@@ -83,4 +82,12 @@ footer {
 
 .alert-link {
     color:cadetblue;
+}
+
+.carousel-control-next {
+    margin-right:5%;
+}
+
+.carousel-control-prev {
+    margin-left:5%;
 }
