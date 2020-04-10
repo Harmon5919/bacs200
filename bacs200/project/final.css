@@ -84,9 +84,11 @@ footer {
 }
 
 .carousel-control-next {
-    margin-right:5%;
+    margin-right:15%;
+    margin-top: 25%;
 }
 
 .carousel-control-prev {
-    margin-left:5%;
+    margin-left:15%;
+    margin-top: 25%;
 }

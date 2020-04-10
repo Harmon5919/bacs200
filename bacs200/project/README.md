@@ -5,13 +5,6 @@ want to talk about and what kind of content I want to include for each article. 
 to explain the game and gain the reader's interest. Some games may be popular enough that no one will want to waste their time
 watching a video. I will want to find a unique thing to say about those games.
 
-My current list of games I want to talk about:
-Animal Crossing
-Rimworld
-Don't Starve
-Oxenfree
-Night in the Woods
-
 The story behind this idea:
 Many people are stuck at home right now and are looking for something fun to pass the time. There are a lot of games to choose
 from and a lot of games that are popular right now require a console that may be too expensive. I want to make people 
