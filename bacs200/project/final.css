@@ -103,6 +103,10 @@ footer {
     margin-top: 25%;
 }
 
+iframe {
+    text-align: center;
+    align-content:center;
+}
 .youtube {
     margin-left:30%;
 }
