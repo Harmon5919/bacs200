@@ -13,3 +13,10 @@ I want to talk about are either indie games or not very well known and would be 
 I also want to talk about animal crossing, because it is very popular right now and a lot of what is shown about it on
 social media is really impressive and overwhelming. I want to make an article that helps people who are overwhelmed with
 trying to keep up with all the cool things they are seeing to play the game at their own pace and have fun their way.
+
+The 5 tricks I have implemented are:
+1. bootstrap navbar
+2. bootstrap carousel
+3. bootstrap alert
+4. W3Schools instructions on how to center an image
+5.
