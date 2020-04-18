@@ -132,3 +132,8 @@ iframe {
 .centertext {
     text-align:center;
 }
+
+.scare { width: 5%; background-color: #4CAF50;} /* Green */
+.ease { width: 20%; background-color: #2196F3;} /* Blue */
+.commit { width: 40%; background-color: #ff781f;} /* Orange */
+.price { width: 10%; background-color: #808080;} /* Dark Grey */

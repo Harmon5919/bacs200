@@ -19,4 +19,5 @@ The 5 tricks I have implemented are:
 2. bootstrap carousel
 3. bootstrap alert
 4. W3Schools instructions on how to center an image
-5.
+5. "Skill" bar from W3Schools
+
